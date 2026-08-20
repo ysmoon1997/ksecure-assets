@@ -1,0 +1,1 @@
+# ksecure-assets
